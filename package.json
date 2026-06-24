@@ -7,6 +7,7 @@
     "test:login": "npx playwright test tests/login",
     "test:users": "npx playwright test tests/users",
     "test:products": "npx playwright test tests/products",
+    "test:carts": "npx playwright test tests/carts",
     "test:report": "npx playwright show-report"
   },
   "keywords": [],
