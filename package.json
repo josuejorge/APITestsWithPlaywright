@@ -5,6 +5,7 @@
   "scripts": {
     "test": "npx playwright test",
     "test:login": "npx playwright test tests/login",
+    "test:products": "npx playwright test tests/products",
     "test:report": "npx playwright show-report"
   },
   "keywords": [],
